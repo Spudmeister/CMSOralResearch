@@ -1,0 +1,13 @@
+Executable     = runCondor.sh
+Universe       = vanilla
+Requirements   = (Arch == "X86_64" && Machine != "zebra01.spa.umn.edu" && Machine != "zebra02.spa.umn.edu" && Machine != "zebra03.spa.umn.edu" && Machine != "zebra04.spa.umn.edu")
+Rank           = Memory >= 64
+Request_Memory = 400 Mb
+Image_Size     = 28 Mb
++CondorGroup    = "cmsfarm"
+
+Error   = err.$(Process)
+
+Output  = out.$(Process)
+Log = foo.log
+Queue 100

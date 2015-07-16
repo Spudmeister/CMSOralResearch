@@ -1,0 +1,1440 @@
+   c~  s~   ==>   mu  mu (s~) c~  g   | mult=  1
+   c~  s~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  s~   ==>   mu  mu  s~ (c~) g   | mult=  1
+   c~  s~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  s~)  ==>   mu  mu  s~  c~  g   | mult=  1
+   c~  s~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  d~   ==>   mu  mu (s~) u~  g   | mult=  1
+   c~  d~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  d~   ==>   mu  mu  s~ (u~) g   | mult=  1
+   c~  d~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  d~)  ==>   mu  mu  s~  u~  g   | mult=  1
+   c~  d~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  u    ==>   mu  mu (s~) d   g   | mult=  1
+   c~  u    ==>   mu  mu  s~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  u    ==>   mu  mu  s~ (d ) g   | mult=  1
+   c~  u    ==>   mu  mu  s~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  u )  ==>   mu  mu  s~  d   g   | mult=  1
+   c~  u    ==>   mu  mu  s~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  c    ==>   mu  mu (s~) s   g   | mult=  1
+   c~  c    ==>   mu  mu  s~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  c    ==>   mu  mu  s~ (s ) g   | mult=  1
+   c~  c    ==>   mu  mu  s~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  c )  ==>   mu  mu  s~  s   g   | mult=  1
+   c~  c    ==>   mu  mu  s~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  c~   ==>   mu  mu (c~) s~  g   | mult=  1
+   s~  c~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  c~   ==>   mu  mu  c~ (s~) g   | mult=  1
+   s~  c~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  c~)  ==>   mu  mu  c~  s~  g   | mult=  1
+   s~  c~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  u~   ==>   mu  mu (c~) d~  g   | mult=  1
+   s~  u~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  u~   ==>   mu  mu  c~ (d~) g   | mult=  1
+   s~  u~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  u~)  ==>   mu  mu  c~  d~  g   | mult=  1
+   s~  u~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  d    ==>   mu  mu (c~) u   g   | mult=  1
+   s~  d    ==>   mu  mu  c~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  d    ==>   mu  mu  c~ (u ) g   | mult=  1
+   s~  d    ==>   mu  mu  c~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  d )  ==>   mu  mu  c~  u   g   | mult=  1
+   s~  d    ==>   mu  mu  c~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  s    ==>   mu  mu (c~) c   g   | mult=  1
+   s~  s    ==>   mu  mu  c~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  s    ==>   mu  mu  c~ (c ) g   | mult=  1
+   s~  s    ==>   mu  mu  c~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  s )  ==>   mu  mu  c~  c   g   | mult=  1
+   s~  s    ==>   mu  mu  c~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  s~   ==>   mu  mu (d~) c~  g   | mult=  1
+   u~  s~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  s~   ==>   mu  mu  d~ (c~) g   | mult=  1
+   u~  s~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  s~)  ==>   mu  mu  d~  c~  g   | mult=  1
+   u~  s~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  d~   ==>   mu  mu (d~) u~  g   | mult=  1
+   u~  d~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  d~   ==>   mu  mu  d~ (u~) g   | mult=  1
+   u~  d~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  d~)  ==>   mu  mu  d~  u~  g   | mult=  1
+   u~  d~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  u    ==>   mu  mu (d~) d   g   | mult=  1
+   u~  u    ==>   mu  mu  d~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  u    ==>   mu  mu  d~ (d ) g   | mult=  1
+   u~  u    ==>   mu  mu  d~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  u )  ==>   mu  mu  d~  d   g   | mult=  1
+   u~  u    ==>   mu  mu  d~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  c    ==>   mu  mu (d~) s   g   | mult=  1
+   u~  c    ==>   mu  mu  d~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  c    ==>   mu  mu  d~ (s ) g   | mult=  1
+   u~  c    ==>   mu  mu  d~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  c )  ==>   mu  mu  d~  s   g   | mult=  1
+   u~  c    ==>   mu  mu  d~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  c~   ==>   mu  mu (u~) s~  g   | mult=  1
+   d~  c~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  c~   ==>   mu  mu  u~ (s~) g   | mult=  1
+   d~  c~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  c~)  ==>   mu  mu  u~  s~  g   | mult=  1
+   d~  c~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  u~   ==>   mu  mu (u~) d~  g   | mult=  1
+   d~  u~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  u~   ==>   mu  mu  u~ (d~) g   | mult=  1
+   d~  u~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  u~)  ==>   mu  mu  u~  d~  g   | mult=  1
+   d~  u~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  d    ==>   mu  mu (u~) u   g   | mult=  1
+   d~  d    ==>   mu  mu  u~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  d    ==>   mu  mu  u~ (u ) g   | mult=  1
+   d~  d    ==>   mu  mu  u~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  d )  ==>   mu  mu  u~  u   g   | mult=  1
+   d~  d    ==>   mu  mu  u~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  s    ==>   mu  mu (u~) c   g   | mult=  1
+   d~  s    ==>   mu  mu  u~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  s    ==>   mu  mu  u~ (c ) g   | mult=  1
+   d~  s    ==>   mu  mu  u~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  s )  ==>   mu  mu  u~  c   g   | mult=  1
+   d~  s    ==>   mu  mu  u~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   s~   ==>   mu  mu (u ) c~  g   | mult=  1
+   d   s~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   s~   ==>   mu  mu  u  (c~) g   | mult=  1
+   d   s~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   s~)  ==>   mu  mu  u   c~  g   | mult=  1
+   d   s~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   d~   ==>   mu  mu (u ) u~  g   | mult=  1
+   d   d~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   d~   ==>   mu  mu  u  (u~) g   | mult=  1
+   d   d~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   d~)  ==>   mu  mu  u   u~  g   | mult=  1
+   d   d~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   u    ==>   mu  mu (u ) d   g   | mult=  1
+   d   u    ==>   mu  mu  u   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   u    ==>   mu  mu  u  (d ) g   | mult=  1
+   d   u    ==>   mu  mu  u   d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   u )  ==>   mu  mu  u   d   g   | mult=  1
+   d   u    ==>   mu  mu  u   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   c    ==>   mu  mu (u ) s   g   | mult=  1
+   d   c    ==>   mu  mu  u   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   c    ==>   mu  mu  u  (s ) g   | mult=  1
+   d   c    ==>   mu  mu  u   s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   c )  ==>   mu  mu  u   s   g   | mult=  1
+   d   c    ==>   mu  mu  u   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   c~   ==>   mu  mu (d ) s~  g   | mult=  1
+   u   c~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   c~   ==>   mu  mu  d  (s~) g   | mult=  1
+   u   c~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   c~)  ==>   mu  mu  d   s~  g   | mult=  1
+   u   c~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   u~   ==>   mu  mu (d ) d~  g   | mult=  1
+   u   u~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   u~   ==>   mu  mu  d  (d~) g   | mult=  1
+   u   u~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   u~)  ==>   mu  mu  d   d~  g   | mult=  1
+   u   u~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   d    ==>   mu  mu (d ) u   g   | mult=  1
+   u   d    ==>   mu  mu  d   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   d    ==>   mu  mu  d  (u ) g   | mult=  1
+   u   d    ==>   mu  mu  d   u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   d )  ==>   mu  mu  d   u   g   | mult=  1
+   u   d    ==>   mu  mu  d   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   s    ==>   mu  mu (d ) c   g   | mult=  1
+   u   s    ==>   mu  mu  d   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   s    ==>   mu  mu  d  (c ) g   | mult=  1
+   u   s    ==>   mu  mu  d   c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   s )  ==>   mu  mu  d   c   g   | mult=  1
+   u   s    ==>   mu  mu  d   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   s~   ==>   mu  mu (c ) c~  g   | mult=  1
+   s   s~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   s~   ==>   mu  mu  c  (c~) g   | mult=  1
+   s   s~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   s~)  ==>   mu  mu  c   c~  g   | mult=  1
+   s   s~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   d~   ==>   mu  mu (c ) u~  g   | mult=  1
+   s   d~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   d~   ==>   mu  mu  c  (u~) g   | mult=  1
+   s   d~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   d~)  ==>   mu  mu  c   u~  g   | mult=  1
+   s   d~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   u    ==>   mu  mu (c ) d   g   | mult=  1
+   s   u    ==>   mu  mu  c   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   u    ==>   mu  mu  c  (d ) g   | mult=  1
+   s   u    ==>   mu  mu  c   d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   u )  ==>   mu  mu  c   d   g   | mult=  1
+   s   u    ==>   mu  mu  c   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   c    ==>   mu  mu (c ) s   g   | mult=  1
+   s   c    ==>   mu  mu  c   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   c    ==>   mu  mu  c  (s ) g   | mult=  1
+   s   c    ==>   mu  mu  c   s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   c )  ==>   mu  mu  c   s   g   | mult=  1
+   s   c    ==>   mu  mu  c   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   c~   ==>   mu  mu (s ) s~  g   | mult=  1
+   c   c~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   c~   ==>   mu  mu  s  (s~) g   | mult=  1
+   c   c~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   c~)  ==>   mu  mu  s   s~  g   | mult=  1
+   c   c~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   u~   ==>   mu  mu (s ) d~  g   | mult=  1
+   c   u~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   u~   ==>   mu  mu  s  (d~) g   | mult=  1
+   c   u~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   u~)  ==>   mu  mu  s   d~  g   | mult=  1
+   c   u~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   d    ==>   mu  mu (s ) u   g   | mult=  1
+   c   d    ==>   mu  mu  s   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   d    ==>   mu  mu  s  (u ) g   | mult=  1
+   c   d    ==>   mu  mu  s   u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   d )  ==>   mu  mu  s   u   g   | mult=  1
+   c   d    ==>   mu  mu  s   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   s    ==>   mu  mu (s ) c   g   | mult=  1
+   c   s    ==>   mu  mu  s   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   s    ==>   mu  mu  s  (c ) g   | mult=  1
+   c   s    ==>   mu  mu  s   c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   s )  ==>   mu  mu  s   c   g   | mult=  1
+   c   s    ==>   mu  mu  s   c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (g ) c~   ==>   mu  mu  u~  s~  d   | mult=  1
+   d~  c~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  d   s~  u~  | mult=  1
+   u   c~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  c~  s~  s   | mult=  1
+   s~  c~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  s   s~  c~  | mult=  1
+   c   c~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  d~  c~  u   | mult=  1
+   u~  s~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  u   c~  d~  | mult=  1
+   d   s~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  s~  c~  c   | mult=  1
+   c~  s~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  c   c~  s~  | mult=  1
+   s   s~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  u~  d~  d   | mult=  1
+   d~  u~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  d   d~  u~  | mult=  1
+   u   u~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  c~  d~  s   | mult=  1
+   s~  u~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  s   d~  c~  | mult=  1
+   c   u~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  d~  u~  u   | mult=  1
+   u~  d~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  u   u~  d~  | mult=  1
+   d   d~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  s~  u~  c   | mult=  1
+   c~  d~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  c   u~  s~  | mult=  1
+   s   d~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  u~  u   d   | mult=  1
+   d~  d    ==>   mu  mu  u~  u   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  d   u   u~  | mult=  1
+   u   d    ==>   mu  mu  d   u   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  c~  u   s   | mult=  1
+   s~  d    ==>   mu  mu  c~  u   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  s   u   c~  | mult=  1
+   c   d    ==>   mu  mu  s   u   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  d~  d   u   | mult=  1
+   u~  u    ==>   mu  mu  d~  d   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  u   d   d~  | mult=  1
+   d   u    ==>   mu  mu  u   d   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  s~  d   c   | mult=  1
+   c~  u    ==>   mu  mu  s~  d   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  c   d   s~  | mult=  1
+   s   u    ==>   mu  mu  c   d   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  u~  c   d   | mult=  1
+   d~  s    ==>   mu  mu  u~  c   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  d   c   u~  | mult=  1
+   u   s    ==>   mu  mu  d   c   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  c~  c   s   | mult=  1
+   s~  s    ==>   mu  mu  c~  c   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  s   c   c~  | mult=  1
+   c   s    ==>   mu  mu  s   c   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  d~  s   u   | mult=  1
+   u~  c    ==>   mu  mu  d~  s   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  u   s   d~  | mult=  1
+   d   c    ==>   mu  mu  u   s   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  s~  s   c   | mult=  1
+   c~  c    ==>   mu  mu  s~  s   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  c   s   s~  | mult=  1
+   s   c    ==>   mu  mu  c   s   | uborn, mult=  1
+  1 5  1 7
+   c~ (g )  ==>   mu  mu  s~  u~  d   | mult=  1
+   c~  d~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  s~  d   u~  | mult=  1
+   c~  u    ==>   mu  mu  s~  d   | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  s~  c~  s   | mult=  1
+   c~  s~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  s~  s   c~  | mult=  1
+   c~  c    ==>   mu  mu  s~  s   | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  c~  d~  u   | mult=  1
+   s~  u~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  c~  u   d~  | mult=  1
+   s~  d    ==>   mu  mu  c~  u   | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  c~  s~  c   | mult=  1
+   s~  c~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  c~  c   s~  | mult=  1
+   s~  s    ==>   mu  mu  c~  c   | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  d~  u~  d   | mult=  1
+   u~  d~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  d~  d   u~  | mult=  1
+   u~  u    ==>   mu  mu  d~  d   | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  d~  c~  s   | mult=  1
+   u~  s~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  d~  s   c~  | mult=  1
+   u~  c    ==>   mu  mu  d~  s   | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  u~  d~  u   | mult=  1
+   d~  u~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  u~  u   d~  | mult=  1
+   d~  d    ==>   mu  mu  u~  u   | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  u~  s~  c   | mult=  1
+   d~  c~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  u~  c   s~  | mult=  1
+   d~  s    ==>   mu  mu  u~  c   | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  u   u~  d   | mult=  1
+   d   d~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  u   d   u~  | mult=  1
+   d   u    ==>   mu  mu  u   d   | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  u   c~  s   | mult=  1
+   d   s~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  u   s   c~  | mult=  1
+   d   c    ==>   mu  mu  u   s   | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  d   d~  u   | mult=  1
+   u   u~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  d   u   d~  | mult=  1
+   u   d    ==>   mu  mu  d   u   | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  d   s~  c   | mult=  1
+   u   c~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  d   c   s~  | mult=  1
+   u   s    ==>   mu  mu  d   c   | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  c   u~  d   | mult=  1
+   s   d~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  c   d   u~  | mult=  1
+   s   u    ==>   mu  mu  c   d   | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  c   c~  s   | mult=  1
+   s   s~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  c   s   c~  | mult=  1
+   s   c    ==>   mu  mu  c   s   | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  s   d~  u   | mult=  1
+   c   u~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  s   u   d~  | mult=  1
+   c   d    ==>   mu  mu  s   u   | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  s   s~  c   | mult=  1
+   c   c~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  s   c   s~  | mult=  1
+   c   s    ==>   mu  mu  s   c   | uborn, mult=  1
+  2 6  2 7
+   c~  c~   ==>   mu  mu (c~) c~  g   | mult=  1
+   c~  c~   ==>   mu  mu  c~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  c~   ==>   mu  mu  c~ (c~) g   | mult=  1
+   c~  c~   ==>   mu  mu  c~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  c~)  ==>   mu  mu  c~  c~  g   | mult=  1
+   c~  c~   ==>   mu  mu  c~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  s~   ==>   mu  mu (c~) s~  g   | mult=  1
+   c~  s~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  s~   ==>   mu  mu  c~ (s~) g   | mult=  1
+   c~  s~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  s~)  ==>   mu  mu  c~  s~  g   | mult=  1
+   c~  s~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  u~   ==>   mu  mu (c~) u~  g   | mult=  1
+   c~  u~   ==>   mu  mu  c~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  u~   ==>   mu  mu  c~ (u~) g   | mult=  1
+   c~  u~   ==>   mu  mu  c~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  u~)  ==>   mu  mu  c~  u~  g   | mult=  1
+   c~  u~   ==>   mu  mu  c~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  d~   ==>   mu  mu (c~) d~  g   | mult=  1
+   c~  d~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  d~   ==>   mu  mu  c~ (d~) g   | mult=  1
+   c~  d~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  d~)  ==>   mu  mu  c~  d~  g   | mult=  1
+   c~  d~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  d    ==>   mu  mu (c~) d   g   | mult=  1
+   c~  d    ==>   mu  mu  c~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  d    ==>   mu  mu  c~ (d ) g   | mult=  1
+   c~  d    ==>   mu  mu  c~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  d )  ==>   mu  mu  c~  d   g   | mult=  1
+   c~  d    ==>   mu  mu  c~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  u    ==>   mu  mu (c~) u   g   | mult=  1
+   c~  u    ==>   mu  mu  c~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  u    ==>   mu  mu  c~ (u ) g   | mult=  1
+   c~  u    ==>   mu  mu  c~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  u )  ==>   mu  mu  c~  u   g   | mult=  1
+   c~  u    ==>   mu  mu  c~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  s    ==>   mu  mu (c~) s   g   | mult=  1
+   c~  s    ==>   mu  mu  c~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  s    ==>   mu  mu  c~ (s ) g   | mult=  1
+   c~  s    ==>   mu  mu  c~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  s )  ==>   mu  mu  c~  s   g   | mult=  1
+   c~  s    ==>   mu  mu  c~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  c    ==>   mu  mu (c~) c   g   | mult=  1
+   c~  c    ==>   mu  mu  c~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   c~  c    ==>   mu  mu  c~ (c ) g   | mult=  1
+   c~  c    ==>   mu  mu  c~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c~  c )  ==>   mu  mu  c~  c   g   | mult=  1
+   c~  c    ==>   mu  mu  c~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  c~   ==>   mu  mu (s~) c~  g   | mult=  1
+   s~  c~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  c~   ==>   mu  mu  s~ (c~) g   | mult=  1
+   s~  c~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  c~)  ==>   mu  mu  s~  c~  g   | mult=  1
+   s~  c~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  s~   ==>   mu  mu (s~) s~  g   | mult=  1
+   s~  s~   ==>   mu  mu  s~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  s~   ==>   mu  mu  s~ (s~) g   | mult=  1
+   s~  s~   ==>   mu  mu  s~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  s~)  ==>   mu  mu  s~  s~  g   | mult=  1
+   s~  s~   ==>   mu  mu  s~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  u~   ==>   mu  mu (s~) u~  g   | mult=  1
+   s~  u~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  u~   ==>   mu  mu  s~ (u~) g   | mult=  1
+   s~  u~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  u~)  ==>   mu  mu  s~  u~  g   | mult=  1
+   s~  u~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  d~   ==>   mu  mu (s~) d~  g   | mult=  1
+   s~  d~   ==>   mu  mu  s~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  d~   ==>   mu  mu  s~ (d~) g   | mult=  1
+   s~  d~   ==>   mu  mu  s~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  d~)  ==>   mu  mu  s~  d~  g   | mult=  1
+   s~  d~   ==>   mu  mu  s~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  d    ==>   mu  mu (s~) d   g   | mult=  1
+   s~  d    ==>   mu  mu  s~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  d    ==>   mu  mu  s~ (d ) g   | mult=  1
+   s~  d    ==>   mu  mu  s~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  d )  ==>   mu  mu  s~  d   g   | mult=  1
+   s~  d    ==>   mu  mu  s~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  u    ==>   mu  mu (s~) u   g   | mult=  1
+   s~  u    ==>   mu  mu  s~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  u    ==>   mu  mu  s~ (u ) g   | mult=  1
+   s~  u    ==>   mu  mu  s~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  u )  ==>   mu  mu  s~  u   g   | mult=  1
+   s~  u    ==>   mu  mu  s~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  s    ==>   mu  mu (s~) s   g   | mult=  1
+   s~  s    ==>   mu  mu  s~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  s    ==>   mu  mu  s~ (s ) g   | mult=  1
+   s~  s    ==>   mu  mu  s~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  s )  ==>   mu  mu  s~  s   g   | mult=  1
+   s~  s    ==>   mu  mu  s~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  c    ==>   mu  mu (s~) c   g   | mult=  1
+   s~  c    ==>   mu  mu  s~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   s~  c    ==>   mu  mu  s~ (c ) g   | mult=  1
+   s~  c    ==>   mu  mu  s~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s~  c )  ==>   mu  mu  s~  c   g   | mult=  1
+   s~  c    ==>   mu  mu  s~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  c~   ==>   mu  mu (u~) c~  g   | mult=  1
+   u~  c~   ==>   mu  mu  u~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  c~   ==>   mu  mu  u~ (c~) g   | mult=  1
+   u~  c~   ==>   mu  mu  u~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  c~)  ==>   mu  mu  u~  c~  g   | mult=  1
+   u~  c~   ==>   mu  mu  u~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  s~   ==>   mu  mu (u~) s~  g   | mult=  1
+   u~  s~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  s~   ==>   mu  mu  u~ (s~) g   | mult=  1
+   u~  s~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  s~)  ==>   mu  mu  u~  s~  g   | mult=  1
+   u~  s~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  u~   ==>   mu  mu (u~) u~  g   | mult=  1
+   u~  u~   ==>   mu  mu  u~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  u~   ==>   mu  mu  u~ (u~) g   | mult=  1
+   u~  u~   ==>   mu  mu  u~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  u~)  ==>   mu  mu  u~  u~  g   | mult=  1
+   u~  u~   ==>   mu  mu  u~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  d~   ==>   mu  mu (u~) d~  g   | mult=  1
+   u~  d~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  d~   ==>   mu  mu  u~ (d~) g   | mult=  1
+   u~  d~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  d~)  ==>   mu  mu  u~  d~  g   | mult=  1
+   u~  d~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  d    ==>   mu  mu (u~) d   g   | mult=  1
+   u~  d    ==>   mu  mu  u~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  d    ==>   mu  mu  u~ (d ) g   | mult=  1
+   u~  d    ==>   mu  mu  u~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  d )  ==>   mu  mu  u~  d   g   | mult=  1
+   u~  d    ==>   mu  mu  u~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  u    ==>   mu  mu (u~) u   g   | mult=  1
+   u~  u    ==>   mu  mu  u~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  u    ==>   mu  mu  u~ (u ) g   | mult=  1
+   u~  u    ==>   mu  mu  u~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  u )  ==>   mu  mu  u~  u   g   | mult=  1
+   u~  u    ==>   mu  mu  u~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  s    ==>   mu  mu (u~) s   g   | mult=  1
+   u~  s    ==>   mu  mu  u~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  s    ==>   mu  mu  u~ (s ) g   | mult=  1
+   u~  s    ==>   mu  mu  u~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  s )  ==>   mu  mu  u~  s   g   | mult=  1
+   u~  s    ==>   mu  mu  u~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  c    ==>   mu  mu (u~) c   g   | mult=  1
+   u~  c    ==>   mu  mu  u~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   u~  c    ==>   mu  mu  u~ (c ) g   | mult=  1
+   u~  c    ==>   mu  mu  u~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u~  c )  ==>   mu  mu  u~  c   g   | mult=  1
+   u~  c    ==>   mu  mu  u~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  c~   ==>   mu  mu (d~) c~  g   | mult=  1
+   d~  c~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  c~   ==>   mu  mu  d~ (c~) g   | mult=  1
+   d~  c~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  c~)  ==>   mu  mu  d~  c~  g   | mult=  1
+   d~  c~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  s~   ==>   mu  mu (d~) s~  g   | mult=  1
+   d~  s~   ==>   mu  mu  d~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  s~   ==>   mu  mu  d~ (s~) g   | mult=  1
+   d~  s~   ==>   mu  mu  d~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  s~)  ==>   mu  mu  d~  s~  g   | mult=  1
+   d~  s~   ==>   mu  mu  d~  s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  u~   ==>   mu  mu (d~) u~  g   | mult=  1
+   d~  u~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  u~   ==>   mu  mu  d~ (u~) g   | mult=  1
+   d~  u~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  u~)  ==>   mu  mu  d~  u~  g   | mult=  1
+   d~  u~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  d~   ==>   mu  mu (d~) d~  g   | mult=  1
+   d~  d~   ==>   mu  mu  d~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  d~   ==>   mu  mu  d~ (d~) g   | mult=  1
+   d~  d~   ==>   mu  mu  d~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  d~)  ==>   mu  mu  d~  d~  g   | mult=  1
+   d~  d~   ==>   mu  mu  d~  d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  d    ==>   mu  mu (d~) d   g   | mult=  1
+   d~  d    ==>   mu  mu  d~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  d    ==>   mu  mu  d~ (d ) g   | mult=  1
+   d~  d    ==>   mu  mu  d~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  d )  ==>   mu  mu  d~  d   g   | mult=  1
+   d~  d    ==>   mu  mu  d~  d   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  u    ==>   mu  mu (d~) u   g   | mult=  1
+   d~  u    ==>   mu  mu  d~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  u    ==>   mu  mu  d~ (u ) g   | mult=  1
+   d~  u    ==>   mu  mu  d~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  u )  ==>   mu  mu  d~  u   g   | mult=  1
+   d~  u    ==>   mu  mu  d~  u   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  s    ==>   mu  mu (d~) s   g   | mult=  1
+   d~  s    ==>   mu  mu  d~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  s    ==>   mu  mu  d~ (s ) g   | mult=  1
+   d~  s    ==>   mu  mu  d~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  s )  ==>   mu  mu  d~  s   g   | mult=  1
+   d~  s    ==>   mu  mu  d~  s   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  c    ==>   mu  mu (d~) c   g   | mult=  1
+   d~  c    ==>   mu  mu  d~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   d~  c    ==>   mu  mu  d~ (c ) g   | mult=  1
+   d~  c    ==>   mu  mu  d~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d~  c )  ==>   mu  mu  d~  c   g   | mult=  1
+   d~  c    ==>   mu  mu  d~  c   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   c~   ==>   mu  mu (d ) c~  g   | mult=  1
+   d   c~   ==>   mu  mu  d   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   c~   ==>   mu  mu  d  (c~) g   | mult=  1
+   d   c~   ==>   mu  mu  d   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   c~)  ==>   mu  mu  d   c~  g   | mult=  1
+   d   c~   ==>   mu  mu  d   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   s~   ==>   mu  mu (d ) s~  g   | mult=  1
+   d   s~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   s~   ==>   mu  mu  d  (s~) g   | mult=  1
+   d   s~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   s~)  ==>   mu  mu  d   s~  g   | mult=  1
+   d   s~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   u~   ==>   mu  mu (d ) u~  g   | mult=  1
+   d   u~   ==>   mu  mu  d   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   u~   ==>   mu  mu  d  (u~) g   | mult=  1
+   d   u~   ==>   mu  mu  d   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   u~)  ==>   mu  mu  d   u~  g   | mult=  1
+   d   u~   ==>   mu  mu  d   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   d~   ==>   mu  mu (d ) d~  g   | mult=  1
+   d   d~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   d~   ==>   mu  mu  d  (d~) g   | mult=  1
+   d   d~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   d~)  ==>   mu  mu  d   d~  g   | mult=  1
+   d   d~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   d   d    ==>   mu  mu (d ) d   g   | mult=  1
+   d   d    ==>   mu  mu  d   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   d    ==>   mu  mu  d  (d ) g   | mult=  1
+   d   d    ==>   mu  mu  d   d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   d )  ==>   mu  mu  d   d   g   | mult=  1
+   d   d    ==>   mu  mu  d   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   u    ==>   mu  mu (d ) u   g   | mult=  1
+   d   u    ==>   mu  mu  d   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   u    ==>   mu  mu  d  (u ) g   | mult=  1
+   d   u    ==>   mu  mu  d   u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   u )  ==>   mu  mu  d   u   g   | mult=  1
+   d   u    ==>   mu  mu  d   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   s    ==>   mu  mu (d ) s   g   | mult=  1
+   d   s    ==>   mu  mu  d   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   s    ==>   mu  mu  d  (s ) g   | mult=  1
+   d   s    ==>   mu  mu  d   s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   s )  ==>   mu  mu  d   s   g   | mult=  1
+   d   s    ==>   mu  mu  d   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   c    ==>   mu  mu (d ) c   g   | mult=  1
+   d   c    ==>   mu  mu  d   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   d   c    ==>   mu  mu  d  (c ) g   | mult=  1
+   d   c    ==>   mu  mu  d   c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (d   c )  ==>   mu  mu  d   c   g   | mult=  1
+   d   c    ==>   mu  mu  d   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   c~   ==>   mu  mu (u ) c~  g   | mult=  1
+   u   c~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   c~   ==>   mu  mu  u  (c~) g   | mult=  1
+   u   c~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   c~)  ==>   mu  mu  u   c~  g   | mult=  1
+   u   c~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   s~   ==>   mu  mu (u ) s~  g   | mult=  1
+   u   s~   ==>   mu  mu  u   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   s~   ==>   mu  mu  u  (s~) g   | mult=  1
+   u   s~   ==>   mu  mu  u   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   s~)  ==>   mu  mu  u   s~  g   | mult=  1
+   u   s~   ==>   mu  mu  u   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   u~   ==>   mu  mu (u ) u~  g   | mult=  1
+   u   u~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   u~   ==>   mu  mu  u  (u~) g   | mult=  1
+   u   u~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   u~)  ==>   mu  mu  u   u~  g   | mult=  1
+   u   u~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   d~   ==>   mu  mu (u ) d~  g   | mult=  1
+   u   d~   ==>   mu  mu  u   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   d~   ==>   mu  mu  u  (d~) g   | mult=  1
+   u   d~   ==>   mu  mu  u   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   d~)  ==>   mu  mu  u   d~  g   | mult=  1
+   u   d~   ==>   mu  mu  u   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   u   d    ==>   mu  mu (u ) d   g   | mult=  1
+   u   d    ==>   mu  mu  u   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   d    ==>   mu  mu  u  (d ) g   | mult=  1
+   u   d    ==>   mu  mu  u   d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   d )  ==>   mu  mu  u   d   g   | mult=  1
+   u   d    ==>   mu  mu  u   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   u    ==>   mu  mu (u ) u   g   | mult=  1
+   u   u    ==>   mu  mu  u   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   u    ==>   mu  mu  u  (u ) g   | mult=  1
+   u   u    ==>   mu  mu  u   u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   u )  ==>   mu  mu  u   u   g   | mult=  1
+   u   u    ==>   mu  mu  u   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   s    ==>   mu  mu (u ) s   g   | mult=  1
+   u   s    ==>   mu  mu  u   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   s    ==>   mu  mu  u  (s ) g   | mult=  1
+   u   s    ==>   mu  mu  u   s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   s )  ==>   mu  mu  u   s   g   | mult=  1
+   u   s    ==>   mu  mu  u   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   c    ==>   mu  mu (u ) c   g   | mult=  1
+   u   c    ==>   mu  mu  u   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   u   c    ==>   mu  mu  u  (c ) g   | mult=  1
+   u   c    ==>   mu  mu  u   c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (u   c )  ==>   mu  mu  u   c   g   | mult=  1
+   u   c    ==>   mu  mu  u   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   c~   ==>   mu  mu (s ) c~  g   | mult=  1
+   s   c~   ==>   mu  mu  s   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   c~   ==>   mu  mu  s  (c~) g   | mult=  1
+   s   c~   ==>   mu  mu  s   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   c~)  ==>   mu  mu  s   c~  g   | mult=  1
+   s   c~   ==>   mu  mu  s   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   s~   ==>   mu  mu (s ) s~  g   | mult=  1
+   s   s~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   s~   ==>   mu  mu  s  (s~) g   | mult=  1
+   s   s~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   s~)  ==>   mu  mu  s   s~  g   | mult=  1
+   s   s~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   u~   ==>   mu  mu (s ) u~  g   | mult=  1
+   s   u~   ==>   mu  mu  s   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   u~   ==>   mu  mu  s  (u~) g   | mult=  1
+   s   u~   ==>   mu  mu  s   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   u~)  ==>   mu  mu  s   u~  g   | mult=  1
+   s   u~   ==>   mu  mu  s   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   d~   ==>   mu  mu (s ) d~  g   | mult=  1
+   s   d~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   d~   ==>   mu  mu  s  (d~) g   | mult=  1
+   s   d~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   d~)  ==>   mu  mu  s   d~  g   | mult=  1
+   s   d~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   s   d    ==>   mu  mu (s ) d   g   | mult=  1
+   s   d    ==>   mu  mu  s   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   d    ==>   mu  mu  s  (d ) g   | mult=  1
+   s   d    ==>   mu  mu  s   d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   d )  ==>   mu  mu  s   d   g   | mult=  1
+   s   d    ==>   mu  mu  s   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   u    ==>   mu  mu (s ) u   g   | mult=  1
+   s   u    ==>   mu  mu  s   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   u    ==>   mu  mu  s  (u ) g   | mult=  1
+   s   u    ==>   mu  mu  s   u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   u )  ==>   mu  mu  s   u   g   | mult=  1
+   s   u    ==>   mu  mu  s   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   s    ==>   mu  mu (s ) s   g   | mult=  1
+   s   s    ==>   mu  mu  s   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   s    ==>   mu  mu  s  (s ) g   | mult=  1
+   s   s    ==>   mu  mu  s   s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   s )  ==>   mu  mu  s   s   g   | mult=  1
+   s   s    ==>   mu  mu  s   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   c    ==>   mu  mu (s ) c   g   | mult=  1
+   s   c    ==>   mu  mu  s   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   s   c    ==>   mu  mu  s  (c ) g   | mult=  1
+   s   c    ==>   mu  mu  s   c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (s   c )  ==>   mu  mu  s   c   g   | mult=  1
+   s   c    ==>   mu  mu  s   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   c~   ==>   mu  mu (c ) c~  g   | mult=  1
+   c   c~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   c~   ==>   mu  mu  c  (c~) g   | mult=  1
+   c   c~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   c~)  ==>   mu  mu  c   c~  g   | mult=  1
+   c   c~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   s~   ==>   mu  mu (c ) s~  g   | mult=  1
+   c   s~   ==>   mu  mu  c   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   s~   ==>   mu  mu  c  (s~) g   | mult=  1
+   c   s~   ==>   mu  mu  c   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   s~)  ==>   mu  mu  c   s~  g   | mult=  1
+   c   s~   ==>   mu  mu  c   s~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   u~   ==>   mu  mu (c ) u~  g   | mult=  1
+   c   u~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   u~   ==>   mu  mu  c  (u~) g   | mult=  1
+   c   u~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   u~)  ==>   mu  mu  c   u~  g   | mult=  1
+   c   u~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   d~   ==>   mu  mu (c ) d~  g   | mult=  1
+   c   d~   ==>   mu  mu  c   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   d~   ==>   mu  mu  c  (d~) g   | mult=  1
+   c   d~   ==>   mu  mu  c   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   d~)  ==>   mu  mu  c   d~  g   | mult=  1
+   c   d~   ==>   mu  mu  c   d~  | uborn, mult=  1
+  5 7  6 7  0 7
+   c   d    ==>   mu  mu (c ) d   g   | mult=  1
+   c   d    ==>   mu  mu  c   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   d    ==>   mu  mu  c  (d ) g   | mult=  1
+   c   d    ==>   mu  mu  c   d   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   d )  ==>   mu  mu  c   d   g   | mult=  1
+   c   d    ==>   mu  mu  c   d   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   u    ==>   mu  mu (c ) u   g   | mult=  1
+   c   u    ==>   mu  mu  c   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   u    ==>   mu  mu  c  (u ) g   | mult=  1
+   c   u    ==>   mu  mu  c   u   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   u )  ==>   mu  mu  c   u   g   | mult=  1
+   c   u    ==>   mu  mu  c   u   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   s    ==>   mu  mu (c ) s   g   | mult=  1
+   c   s    ==>   mu  mu  c   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   s    ==>   mu  mu  c  (s ) g   | mult=  1
+   c   s    ==>   mu  mu  c   s   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   s )  ==>   mu  mu  c   s   g   | mult=  1
+   c   s    ==>   mu  mu  c   s   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   c    ==>   mu  mu (c ) c   g   | mult=  1
+   c   c    ==>   mu  mu  c   c   | uborn, mult=  1
+  5 7  6 7  0 7
+   c   c    ==>   mu  mu  c  (c ) g   | mult=  1
+   c   c    ==>   mu  mu  c   c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (c   c )  ==>   mu  mu  c   c   g   | mult=  1
+   c   c    ==>   mu  mu  c   c   | uborn, mult=  1
+  5 7  6 7  0 7
+  (g ) c~   ==>   mu  mu  c~  c~  c   | mult=  1
+   c~  c~   ==>   mu  mu  c~  c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  c   c~  c~  | mult=  1
+   c   c~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  s~  c~  s   | mult=  1
+   s~  c~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  s   c~  s~  | mult=  1
+   s   c~   ==>   mu  mu  s   c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  u~  c~  u   | mult=  1
+   u~  c~   ==>   mu  mu  u~  c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  u   c~  u~  | mult=  1
+   u   c~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  d~  c~  d   | mult=  1
+   d~  c~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) c~   ==>   mu  mu  d   c~  d~  | mult=  1
+   d   c~   ==>   mu  mu  d   c~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  c~  s~  c   | mult=  1
+   c~  s~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  c   s~  c~  | mult=  1
+   c   s~   ==>   mu  mu  c   s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  s~  s~  s   | mult=  1
+   s~  s~   ==>   mu  mu  s~  s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  s   s~  s~  | mult=  1
+   s   s~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  u~  s~  u   | mult=  1
+   u~  s~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  u   s~  u~  | mult=  1
+   u   s~   ==>   mu  mu  u   s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  d~  s~  d   | mult=  1
+   d~  s~   ==>   mu  mu  d~  s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) s~   ==>   mu  mu  d   s~  d~  | mult=  1
+   d   s~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  c~  u~  c   | mult=  1
+   c~  u~   ==>   mu  mu  c~  u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  c   u~  c~  | mult=  1
+   c   u~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  s~  u~  s   | mult=  1
+   s~  u~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  s   u~  s~  | mult=  1
+   s   u~   ==>   mu  mu  s   u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  u~  u~  u   | mult=  1
+   u~  u~   ==>   mu  mu  u~  u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  u   u~  u~  | mult=  1
+   u   u~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  d~  u~  d   | mult=  1
+   d~  u~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) u~   ==>   mu  mu  d   u~  d~  | mult=  1
+   d   u~   ==>   mu  mu  d   u~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  c~  d~  c   | mult=  1
+   c~  d~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  c   d~  c~  | mult=  1
+   c   d~   ==>   mu  mu  c   d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  s~  d~  s   | mult=  1
+   s~  d~   ==>   mu  mu  s~  d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  s   d~  s~  | mult=  1
+   s   d~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  u~  d~  u   | mult=  1
+   u~  d~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  u   d~  u~  | mult=  1
+   u   d~   ==>   mu  mu  u   d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  d~  d~  d   | mult=  1
+   d~  d~   ==>   mu  mu  d~  d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d~   ==>   mu  mu  d   d~  d~  | mult=  1
+   d   d~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  c~  d   c   | mult=  1
+   c~  d    ==>   mu  mu  c~  d   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  c   d   c~  | mult=  1
+   c   d    ==>   mu  mu  c   d   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  s~  d   s   | mult=  1
+   s~  d    ==>   mu  mu  s~  d   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  s   d   s~  | mult=  1
+   s   d    ==>   mu  mu  s   d   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  u~  d   u   | mult=  1
+   u~  d    ==>   mu  mu  u~  d   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  u   d   u~  | mult=  1
+   u   d    ==>   mu  mu  u   d   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  d~  d   d   | mult=  1
+   d~  d    ==>   mu  mu  d~  d   | uborn, mult=  1
+  1 5  1 7
+  (g ) d    ==>   mu  mu  d   d   d~  | mult=  1
+   d   d    ==>   mu  mu  d   d   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  c~  u   c   | mult=  1
+   c~  u    ==>   mu  mu  c~  u   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  c   u   c~  | mult=  1
+   c   u    ==>   mu  mu  c   u   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  s~  u   s   | mult=  1
+   s~  u    ==>   mu  mu  s~  u   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  s   u   s~  | mult=  1
+   s   u    ==>   mu  mu  s   u   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  u~  u   u   | mult=  1
+   u~  u    ==>   mu  mu  u~  u   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  u   u   u~  | mult=  1
+   u   u    ==>   mu  mu  u   u   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  d~  u   d   | mult=  1
+   d~  u    ==>   mu  mu  d~  u   | uborn, mult=  1
+  1 5  1 7
+  (g ) u    ==>   mu  mu  d   u   d~  | mult=  1
+   d   u    ==>   mu  mu  d   u   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  c~  s   c   | mult=  1
+   c~  s    ==>   mu  mu  c~  s   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  c   s   c~  | mult=  1
+   c   s    ==>   mu  mu  c   s   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  s~  s   s   | mult=  1
+   s~  s    ==>   mu  mu  s~  s   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  s   s   s~  | mult=  1
+   s   s    ==>   mu  mu  s   s   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  u~  s   u   | mult=  1
+   u~  s    ==>   mu  mu  u~  s   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  u   s   u~  | mult=  1
+   u   s    ==>   mu  mu  u   s   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  d~  s   d   | mult=  1
+   d~  s    ==>   mu  mu  d~  s   | uborn, mult=  1
+  1 5  1 7
+  (g ) s    ==>   mu  mu  d   s   d~  | mult=  1
+   d   s    ==>   mu  mu  d   s   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  c~  c   c   | mult=  1
+   c~  c    ==>   mu  mu  c~  c   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  c   c   c~  | mult=  1
+   c   c    ==>   mu  mu  c   c   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  s~  c   s   | mult=  1
+   s~  c    ==>   mu  mu  s~  c   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  s   c   s~  | mult=  1
+   s   c    ==>   mu  mu  s   c   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  u~  c   u   | mult=  1
+   u~  c    ==>   mu  mu  u~  c   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  u   c   u~  | mult=  1
+   u   c    ==>   mu  mu  u   c   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  d~  c   d   | mult=  1
+   d~  c    ==>   mu  mu  d~  c   | uborn, mult=  1
+  1 5  1 7
+  (g ) c    ==>   mu  mu  d   c   d~  | mult=  1
+   d   c    ==>   mu  mu  d   c   | uborn, mult=  1
+  1 5  1 7
+   c~ (g )  ==>   mu  mu  c~  c~  c   | mult=  1
+   c~  c~   ==>   mu  mu  c~  c~  | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  c~  c   c~  | mult=  1
+   c~  c    ==>   mu  mu  c~  c   | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  c~  s~  s   | mult=  1
+   c~  s~   ==>   mu  mu  c~  s~  | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  c~  s   s~  | mult=  1
+   c~  s    ==>   mu  mu  c~  s   | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  c~  u~  u   | mult=  1
+   c~  u~   ==>   mu  mu  c~  u~  | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  c~  u   u~  | mult=  1
+   c~  u    ==>   mu  mu  c~  u   | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  c~  d~  d   | mult=  1
+   c~  d~   ==>   mu  mu  c~  d~  | uborn, mult=  1
+  2 6  2 7
+   c~ (g )  ==>   mu  mu  c~  d   d~  | mult=  1
+   c~  d    ==>   mu  mu  c~  d   | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  s~  c~  c   | mult=  1
+   s~  c~   ==>   mu  mu  s~  c~  | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  s~  c   c~  | mult=  1
+   s~  c    ==>   mu  mu  s~  c   | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  s~  s~  s   | mult=  1
+   s~  s~   ==>   mu  mu  s~  s~  | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  s~  s   s~  | mult=  1
+   s~  s    ==>   mu  mu  s~  s   | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  s~  u~  u   | mult=  1
+   s~  u~   ==>   mu  mu  s~  u~  | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  s~  u   u~  | mult=  1
+   s~  u    ==>   mu  mu  s~  u   | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  s~  d~  d   | mult=  1
+   s~  d~   ==>   mu  mu  s~  d~  | uborn, mult=  1
+  2 6  2 7
+   s~ (g )  ==>   mu  mu  s~  d   d~  | mult=  1
+   s~  d    ==>   mu  mu  s~  d   | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  u~  c~  c   | mult=  1
+   u~  c~   ==>   mu  mu  u~  c~  | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  u~  c   c~  | mult=  1
+   u~  c    ==>   mu  mu  u~  c   | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  u~  s~  s   | mult=  1
+   u~  s~   ==>   mu  mu  u~  s~  | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  u~  s   s~  | mult=  1
+   u~  s    ==>   mu  mu  u~  s   | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  u~  u~  u   | mult=  1
+   u~  u~   ==>   mu  mu  u~  u~  | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  u~  u   u~  | mult=  1
+   u~  u    ==>   mu  mu  u~  u   | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  u~  d~  d   | mult=  1
+   u~  d~   ==>   mu  mu  u~  d~  | uborn, mult=  1
+  2 6  2 7
+   u~ (g )  ==>   mu  mu  u~  d   d~  | mult=  1
+   u~  d    ==>   mu  mu  u~  d   | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  d~  c~  c   | mult=  1
+   d~  c~   ==>   mu  mu  d~  c~  | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  d~  c   c~  | mult=  1
+   d~  c    ==>   mu  mu  d~  c   | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  d~  s~  s   | mult=  1
+   d~  s~   ==>   mu  mu  d~  s~  | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  d~  s   s~  | mult=  1
+   d~  s    ==>   mu  mu  d~  s   | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  d~  u~  u   | mult=  1
+   d~  u~   ==>   mu  mu  d~  u~  | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  d~  u   u~  | mult=  1
+   d~  u    ==>   mu  mu  d~  u   | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  d~  d~  d   | mult=  1
+   d~  d~   ==>   mu  mu  d~  d~  | uborn, mult=  1
+  2 6  2 7
+   d~ (g )  ==>   mu  mu  d~  d   d~  | mult=  1
+   d~  d    ==>   mu  mu  d~  d   | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  d   c~  c   | mult=  1
+   d   c~   ==>   mu  mu  d   c~  | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  d   c   c~  | mult=  1
+   d   c    ==>   mu  mu  d   c   | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  d   s~  s   | mult=  1
+   d   s~   ==>   mu  mu  d   s~  | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  d   s   s~  | mult=  1
+   d   s    ==>   mu  mu  d   s   | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  d   u~  u   | mult=  1
+   d   u~   ==>   mu  mu  d   u~  | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  d   u   u~  | mult=  1
+   d   u    ==>   mu  mu  d   u   | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  d   d~  d   | mult=  1
+   d   d~   ==>   mu  mu  d   d~  | uborn, mult=  1
+  2 6  2 7
+   d  (g )  ==>   mu  mu  d   d   d~  | mult=  1
+   d   d    ==>   mu  mu  d   d   | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  u   c~  c   | mult=  1
+   u   c~   ==>   mu  mu  u   c~  | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  u   c   c~  | mult=  1
+   u   c    ==>   mu  mu  u   c   | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  u   s~  s   | mult=  1
+   u   s~   ==>   mu  mu  u   s~  | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  u   s   s~  | mult=  1
+   u   s    ==>   mu  mu  u   s   | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  u   u~  u   | mult=  1
+   u   u~   ==>   mu  mu  u   u~  | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  u   u   u~  | mult=  1
+   u   u    ==>   mu  mu  u   u   | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  u   d~  d   | mult=  1
+   u   d~   ==>   mu  mu  u   d~  | uborn, mult=  1
+  2 6  2 7
+   u  (g )  ==>   mu  mu  u   d   d~  | mult=  1
+   u   d    ==>   mu  mu  u   d   | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  s   c~  c   | mult=  1
+   s   c~   ==>   mu  mu  s   c~  | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  s   c   c~  | mult=  1
+   s   c    ==>   mu  mu  s   c   | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  s   s~  s   | mult=  1
+   s   s~   ==>   mu  mu  s   s~  | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  s   s   s~  | mult=  1
+   s   s    ==>   mu  mu  s   s   | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  s   u~  u   | mult=  1
+   s   u~   ==>   mu  mu  s   u~  | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  s   u   u~  | mult=  1
+   s   u    ==>   mu  mu  s   u   | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  s   d~  d   | mult=  1
+   s   d~   ==>   mu  mu  s   d~  | uborn, mult=  1
+  2 6  2 7
+   s  (g )  ==>   mu  mu  s   d   d~  | mult=  1
+   s   d    ==>   mu  mu  s   d   | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  c   c~  c   | mult=  1
+   c   c~   ==>   mu  mu  c   c~  | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  c   c   c~  | mult=  1
+   c   c    ==>   mu  mu  c   c   | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  c   s~  s   | mult=  1
+   c   s~   ==>   mu  mu  c   s~  | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  c   s   s~  | mult=  1
+   c   s    ==>   mu  mu  c   s   | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  c   u~  u   | mult=  1
+   c   u~   ==>   mu  mu  c   u~  | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  c   u   u~  | mult=  1
+   c   u    ==>   mu  mu  c   u   | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  c   d~  d   | mult=  1
+   c   d~   ==>   mu  mu  c   d~  | uborn, mult=  1
+  2 6  2 7
+   c  (g )  ==>   mu  mu  c   d   d~  | mult=  1
+   c   d    ==>   mu  mu  c   d   | uborn, mult=  1
+  2 6  2 7

@@ -1,0 +1,27 @@
+This is METAFONT, Version 2.7182818 (TeX Live 2014/Arch Linux) (preloaded base=mf 2014.9.8)  14 NOV 2014 09:03
+**\mode:=laserjet; input fd.mf
+(fd.mf (/usr/share/texmf-dist/metafont/feynmf/feynmf.mf)
+:1:\fmfL(26.3932,53.9842,t){$H$}%
+:1:\fmfL(77.08148,80.23428,rb){$f$}%
+:1:\fmfL(113.1715,59.9842,l){$f$}%
+:1:\fmfL(77.08148,39.73413,rt){$f$}%
+:1:\fmfL(165.57584,92.08304,l){$\gamma $}%
+:1:\fmfL(165.57584,27.88538,l){$\gamma $}% [1]
+:2:\fmfL(26.3932,53.9842,t){$H$}%
+:2:\fmfL(77.08148,80.23428,rb){$W$}%
+:2:\fmfL(113.1715,59.9842,l){$W$}%
+:2:\fmfL(77.08148,39.73413,rt){$W$}%
+:2:\fmfL(165.57584,92.08304,l){$\gamma $}%
+:2:\fmfL(165.57584,27.88538,l){$\gamma $}% [2] ) 
+Here is how much of METAFONT's memory you used:
+ 650 strings out of 5274
+ 7420 string characters out of 70024
+ 32055 words of memory out of 5000000
+ 1378 symbolic tokens out of 9500
+ 14i,67n,74r,28p,122b stack positions out of 300i,300n,1000r,150p,200000b
+ 
+(You used 2w,2h,1d,1i,0l,0k,0e,0p metric file positions
+  out of 256w,16h,16d,64i,15000l,2500k,256e,60p)
+
+Font metrics written on fd.tfm.
+Output written on fd.300gf (2 characters, 5344 bytes).
